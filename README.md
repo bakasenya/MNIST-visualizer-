@@ -16,7 +16,6 @@ This project implements a simple fully-connected neural network trained on the M
   <img src="1.gif" alt="Drawing and predicting digits" width="600"/>
 </p>
 
-### 🧾 Model Feedback
 <p align="center">
   <img src="2.gif" alt="Prediction output" width="600"/>
 </p>
